@@ -1,0 +1,17 @@
+{
+    "model": "User",
+    "data": {
+        "admin": {
+            "name": "Bruce W",
+            "email": "bruce@wayne.fr",
+            "password": "password",
+            "role": "admin"
+        },
+        "user": {
+            "name": "Tony Stark",
+            "email": "stark@stark.fr",
+            "password": "password",
+            "role": "user"
+        }
+    }
+}

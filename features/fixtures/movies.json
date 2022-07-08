@@ -1,0 +1,13 @@
+{
+    "model": "Movie",
+    "data": {
+        "movie1": {
+            "name": "H2G2 The Hitchniker Guide of the Galaxy",
+            "released_on": "2022-02-02T00:00:00.000Z"
+        },
+        "movie2": {
+            "name": "Black Adam",
+            "released_on": "2022-02-02T00:00:00.000Z"
+        }
+    }
+}
