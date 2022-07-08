@@ -1,0 +1,13 @@
+{
+    "model": "Disk",
+    "data": {
+        "disk1": {
+            "name": "Chromatica",
+            "released_on": "2022-02-02T00:00:00.000Z"
+        },
+        "disk2": {
+            "name": "John Williams all themes",
+            "released_on": "2022-02-02T00:00:00.000Z"
+        }
+    }
+}
